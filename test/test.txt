@@ -1,9 +1,14 @@
 fdsfdsq
+une ligne s'insère
 fdqs
 fdqs
 fdqs
+fdqs
+<<<<<<< HEAD
 fdqs
 jajzjhzjhqskJDH
 DLDQJDKjdkqjlq
 dLKQJSD.KSQJLDKJSQ
-DSQLKJDLQSKJDLQS
+DSQLKJDLQSKJDLQSDSQLKJDLQSKJDLQS
+=======
+>>>>>>> ced6819b1492aef1e0a98112362b41dc1187b67e
