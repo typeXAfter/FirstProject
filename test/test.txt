@@ -1,5 +1,6 @@
 private void test 
 {
+  // comment
   int i = 1;
   
   console.write("test");
