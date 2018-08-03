@@ -4,3 +4,8 @@ private void test
   
   console.write("test");
 }
+
+public void addFunction
+{
+  // some code
+}
