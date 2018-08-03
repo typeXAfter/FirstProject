@@ -1,6 +1,6 @@
 private void test 
 {
-  int i = 0;
+  int i = 1;
   
   console.write("test");
 }
