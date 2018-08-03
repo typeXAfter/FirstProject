@@ -5,6 +5,7 @@ fdqs
 fdqs
 fdqs
 <<<<<<< HEAD
+<<<<<<< HEAD
 fdqs
 jajzjhzjhqskJDH
 DLDQJDKjdkqjlq
@@ -12,3 +13,7 @@ dLKQJSD.KSQJLDKJSQ
 DSQLKJDLQSKJDLQS
 =======
 >>>>>>> ced6819b1492aef1e0a98112362b41dc1187b67e
+=======
+
+allé réessaye
+>>>>>>> aae507582a8d110d11cf9950e4679a86d3b1d1ac
