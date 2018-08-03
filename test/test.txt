@@ -1,23 +1,6 @@
-qsdfqdsqfdsqfsdqfds
-fdsqfdsq
-
-fdsq
-une ligne s'insère
-fdqs
-modif en même temps
-fdqs
-
-retire une ligne
-fdqs
-
-
-
-je fais un testf
-fdsfds
-<<<<<<< HEAD
-
-
-
-hello
-=======
->>>>>>> 84b36ba01f920ebac49d9af50eae5a2a2ffc5402
+private void test 
+{
+  int i = 0;
+  
+  console.write("test");
+}
