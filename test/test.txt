@@ -1,17 +1,23 @@
-﻿fdsfdsq
+qsdfqdsqfdsqfsdqfds
+fdsqfdsq
+
+fdsq
 une ligne s'insère
 fdqs
 modif en même temps
 fdqs
-fdqs
-j'insère une ligne ici
+
+retire une ligne
 fdqs
 
 
 
 je fais un testf
 fdsfds
+<<<<<<< HEAD
 
 
 
 hello
+=======
+>>>>>>> 84b36ba01f920ebac49d9af50eae5a2a2ffc5402
