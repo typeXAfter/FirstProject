@@ -1,8 +1,9 @@
 private void test 
 {
-  int i = 1;
+  int i = 2;
   
   console.write("test");
+//comment
 }
 
 public void addFunction
